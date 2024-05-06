@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿
 //ring name = Console.ReadLine();
 
 //nsole.WriteLine("My Name: " + name);
@@ -200,3 +199,4 @@ foreach(dynamic item in listOfDynamic)
 {
     Console.WriteLine(item);
 }
+Console.WriteLine("Hello, World!");
